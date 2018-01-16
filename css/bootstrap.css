@@ -6755,3 +6755,8 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+h4 {
+	font-size: 30px;
+	color: deepskyblue;
+}
